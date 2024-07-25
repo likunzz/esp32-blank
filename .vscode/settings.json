@@ -11,5 +11,8 @@
     },
     "idf.gitPathWin": "C:\\Users\\admin\\.espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
     "idf.flashType": "UART",
-    "idf.adapterTargetName": "esp32"
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "led.h": "c"
+    }
 }

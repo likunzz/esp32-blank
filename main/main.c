@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-#include "driver/gpio.h"
+#include "LED.h"
 void SET_LED_OUTPUT();
 void LED_ON();
 void LED_OFF();
